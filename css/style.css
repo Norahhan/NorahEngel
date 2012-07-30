@@ -910,6 +910,7 @@ z-index:2;
 line-height:0.9em;
 } 
 
+
 /* HOMEPAGE - 3 MODULES */
 #home-features {
 	position:relative;
@@ -939,7 +940,7 @@ line-height:0.9em;
 	-o-transition-timing-function: ease-out;
 }
 #home-features .item:hover p { color:#000; }
-/* NEWS & BLOG*/
+
 
 
 
