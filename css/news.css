@@ -1,0 +1,108 @@
+/* NEWS & BLOG*/
+#content-OtherPage {
+	width:100%;
+	min-width: 960px;
+	background: #FFFFFF url(img/other_bg.jpg) repeat-x 0 0;
+}
+
+
+#sidebar .module input.search{
+	background:url(img/search_btn.png) no-repeat 0 0;
+	width:33px;
+	height:35px;
+	display: block;
+	margin:1px 0 0 -5px;
+	border-radius:0;
+	border:none;
+	padding:0;
+}
+#sidebar .module input.search:hover{
+	background:url(img/search_btn.png) no-repeat 0 -35px;
+}
+
+input.search_bg{
+	width:142px;
+	height:15px;
+	padding:10px;
+	margin:0px;
+	border-radius:3px 0px 0px 3px;
+	backgroundd:url(img/search_bg.png) no-repeat;
+}
+.searchbar_wrap{width:195px;}
+ul.news li{ margin:20px 0;}
+
+.news_article{ margin:0 0 20px 0;}
+
+a.BackToNews{ 
+	width:229px; 
+	height:44px; 
+	display:block;
+	background:url(img/BackToNews.png) no-repeat 0 0; 
+}
+a.BackToNews:hover{ 
+	background:url(img/BackToNews.png) no-repeat 0 -44px;
+}
+
+/* REVIEWS */
+.sendReview{
+	width :170px;
+	height:32px;
+	display:block;
+	background:url(img/sendReview.png) no-repeat;
+}
+.sendReview:hover{
+	width : 170px;
+	height:32px;
+	background:url(img/sendReview.png) no-repeat 0 -32px;
+}
+a.BackToReviews{ 
+	width:250px; 
+	height:44px; 
+	display:block;
+	background:url(img/BackToReviews.png) no-repeat 0 0; 
+}
+a.BackToReviews:hover{ 
+	background:url(img/BackToReviews.png) no-repeat 0 -44px;
+}
+
+lable.review{
+	display:inline-block;
+	width:140px;
+	margin-right:10px;
+	text-align: right;
+	font-size: 1.05em;
+}
+
+input[type=submit].SubmitYourReview{
+	border:0px;
+	margin:0;
+	padding:0;
+	width:226px; 
+	height:32px; 
+	display:block;
+	margin-left:155px;
+	background:url(img/SubmitYourReview.png) no-repeat 0 0; 
+}
+input[type=submit].SubmitYourReview:hover{ 
+	background:url(img/SubmitYourReview.png) no-repeat 0 -32px;
+}
+
+small.disclaimer{
+    margin:20px 0 0 205px;
+	font-size: 0.8em;
+	width:420px;
+	display:block;
+	line-height:120%;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
