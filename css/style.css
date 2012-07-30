@@ -134,6 +134,7 @@ a.picOpacity:hover img{
   filter:alpha(opacity=60); 
   cursor:hand;
 }
+
 /****************************************************************** GENERAL ELEMENTS */
 b, strong, dfn { font-weight:bold; }
 i, em, dfn { font-style:italic; }
