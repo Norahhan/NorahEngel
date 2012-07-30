@@ -6,6 +6,7 @@
   <link rel="shortcut icon" href="favicon.ico">
   <link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
   <link rel="stylesheet" type="text/css" href="css/news.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="css/products.css" media="screen" />
   <link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
   <script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
   <!--[if lte IE 8]>

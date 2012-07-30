@@ -778,7 +778,7 @@ article.item { display:block; position:relative; padding:0 0 1.5em; }
 .item .article-details { display:block; margin-bottom:1em; }
 
 /* PAGINATION */
-.pagination{ width:100%; margin:0 auto;}
+.pagination{ width:100%; margin:0 auto; clear:both;}
 .pagination ul{margin:0 auto;display:block; text-align: center;}
 .pagination ul li{margin:4px; color:#999; font-weight:bold; display:inline; background:none;}
 .pagination ul li a { padding:4px; color:#333; }

@@ -1,0 +1,22 @@
+/* PRODUCTS */
+.product-wrap{
+	width:100%;
+}
+.product-wrap ul{
+margin:0;
+padding:0;
+}
+.product-nav li{
+	float:left;
+	margin:0 0 30px 0;
+	padding:0;
+}
+.product-nav li img{
+	margin:10px 26px 10px 0;;
+}
+
+
+.products-nav-bar h3{
+	font-size: 1.4em;
+	line-height: 180%;;
+}
