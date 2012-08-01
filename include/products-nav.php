@@ -70,85 +70,102 @@
 						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
 					</ul>
 				</div>
-			</div>
-			<div id="accordion">
-					<ul class="products-nav-bar">
-						<li class="first"> <a href="#"> 
-					<h3>
-						Chest Fridge/Freezers
-					</h3>
-					</a> 
+				<h3>
+					<a href="#">Chest Fridge/Freezers</a>
+				</h3>
+				<div>
 					<ul>
 						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
 						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
 					</ul>
-					</li>
-					<li> 
-					<h3>
-						Conversion Kits
-					</h3>
-					</li>
-					<li> 
-					<h3>
-						Fridge Accessories
-					</h3>
-					</li>
-					<li> 
-					<h3>
-						Generators
-					</h3>
-					</li>
-					<li> 
-					<h3>
-						Ice Boxes
-					</h3>
-					</li>
-					<li> 
-					<h3>
-						Off Road Accessories
-					</h3>
-					</li>
-					<li> <a href="#">
+				</div>
 				<h3>
-					Outdoors &amp; Camping
+					<a href="#">Conversion Kits</a>
 				</h3>
-				</a> </li>
-				<li> 
+				<div>
+					<ul>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+					</ul>
+				</div>
 				<h3>
-					Past Products
+					<a href="#">Chest Fridge/Freezers</a>
 				</h3>
-				</li>
-				<li> 
+				<div>
+					<ul>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+					</ul>
+				</div>
 				<h3>
-					Promotional Products
+					<a href="#">Conversion Kits</a>
 				</h3>
-				</li>
-				<li> 
+				<div>
+					<ul>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+					</ul>
+				</div>
 				<h3>
-					Solar
+					<a href="#">Chest Fridge/Freezers</a>
 				</h3>
-				</li>
-				<li> 
+				<div>
+					<ul>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+					</ul>
+				</div>
 				<h3>
-					Spare Parts
+					<a href="#">Conversion Kits</a>
 				</h3>
-				</li>
-				<li> 
-				<h3>
-					Specialised Equipment
-				</h3>
-				</li>
-				<li> 
-				<h3>
-					Thermo Cooler/Warmer
-				</h3>
-				</li>
-				<li class="last"> 
-				<h3>
-					Upright Fridge/Freezers
-				</h3>
-				</li>
-			</ul>
+				<div>
+					<ul>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+						<li><a href="#" class="black">14 Litre Chest Fridge / Freezer </a></li>
+					</ul>
+				</div>
 			</div>
 		</div>
 	</div>

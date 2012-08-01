@@ -728,7 +728,7 @@ ul.menu li { float:left; padding-left:0; background-image:none; }
 #sidebar img.alignleft, #sidebar img.alignleft { margin:0 0 1em; }
 #sidebar .module {
 	padding-top:12px;
-	background: url(img/sidebar-bg.jpg) no-repeat 0 0;
+	background: url(img/sidebar-bg.jpg) repeat-y;
 }
 #sidebar .itemtop {
 	margin-top:-13px;
