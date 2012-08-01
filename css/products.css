@@ -16,7 +16,39 @@ padding:0;
 }
 
 
-.products-nav-bar h3{
-	font-size: 1.4em;
-	line-height: 180%;;
+.product-nav h3{
+	font-size: 1em;
+	line-height: 180%;
+	color:#333;
+}
+
+
+.ui-accordion-header{
+	color:red;
+}
+
+.product-nav-r .ui-icon-triangle-1-s{
+	background:url(img/arrow.png) no-repeat 0 3px;
+}
+
+.product-nav-r .ui-accordion .ui-accordion-header{
+    border:none;
+}
+
+.product-nav-r .ui-accordion-header a{
+	padding:0.5em 0.5em 0.5em 1em;
+	font-size:1.22em;
+	color:#333;
+}
+
+.product-nav-r .ui-widget-content{
+	background:none;
+}
+
+.product-nav-r ul{
+	margin:0;
+}
+.product-nav-r ul li{
+	background:red;
+	width:100%;
 }
