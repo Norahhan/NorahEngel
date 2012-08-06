@@ -86,36 +86,5 @@ $(document).ready(function(){
 	$('#client-testimony').dialog({ autoOpen: false, modal:true, width: 580, show: 'fade' });
 	$('#whitepapers-form').dialog({ autoOpen: false, modal:true, width: 580, show: 'fade' });
 	$('#details-form').dialog({ autoOpen: false, modal:true, width: 580, show: 'fade' });
-	
-	//Tabs
-	$( "#tabs" ).tabs();
-	
-	//Timeline
-	$('#timeline').addClass('active');
 
-	$('#timeline .item').fadeOut(0,0);
-	
-	$('a[class=timeline-link]').each(function() {
-		var year = $(this).attr('href');
-		var split_result = year.split('#');
-		var item_position = (split_result[1] - 1930)*10;
-		
-		$(this).css({
-			position:'absolute',
-			top : item_position
-			});
-		$(this).hover(function(){
-			$(year).stop().fadeTo('fast',1).css({
-				position:'absolute',
-				top:item_position
-			});
-		}).mouseout(function(){
-			$(year).stop().fadeTo('slow',0);
-		}).click(function(){
-			$(year).stop().hide('slow');
-			return false;
-		});
-	 });
-	 
-	 sizeContent();
 });

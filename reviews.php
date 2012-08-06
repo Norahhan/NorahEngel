@@ -82,8 +82,6 @@
 						<div class="pagination">
 							<ul>
 								<li class="prev-page">Previous &#60;</li>
-
-<!-- inactive -->
 								<li class="number-page"><a href="#">[1]</a></li>
 								<li class="number-page "><a href="#" class="current">[2]</a></li>
 								<li class="number-page"><a href="#">[3]</a></li>

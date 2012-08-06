@@ -178,6 +178,3 @@
 <!-- item end -->
 </div>
 <!--module end -->
-<script>
-
-	</script>

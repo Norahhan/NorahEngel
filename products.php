@@ -31,7 +31,7 @@
 						</p>
 						<div class="product-wrap">
 							<ul class="product-nav">
-								<li><a href="product_details.php" class="picOpacity"><img src="images/001ChestFridge.png" alt="Chest Fridge/Freezers"/><h4>Chest Fridge/Freezers</h4></a></li>
+								<li><a href="products_category.php" class="picOpacity"><img src="images/001ChestFridge.png" alt="Chest Fridge/Freezers"/><h4>Chest Fridge/Freezers</h4></a></li>
 								<li><a href="product_details.php" class="picOpacity"><img src="images/002ConversionKits.png" alt="Conversion Kits"/><h4>Conversion Kits</h4></a></li>
 								<li><a href="product_details.php" class="picOpacity"><img src="images/003FridgeAccessories.png" alt="Fridge Accessories"/><h4>Fridge Accessories</h4></a></li>
 								<li><a href="product_details.php" class="picOpacity"><img src="images/004Generators.png" alt="Generators"/><h4>Generators</h4></a></li>

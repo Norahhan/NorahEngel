@@ -28,7 +28,7 @@
 						<hr class="space">
 						<article class="news_article clear"> 
 						<p>Simply click on the questions below to view the answer.</p>
-						<dl class="accordion"> 
+						<dl id="accordion"> 
 							<dt><a href="" class="accordion_arrow_right">Fridge - Can I run my Engel Fridge on a generator? </a></dt>
 							<dd>
 								<p>The only requirement needed for running your “E” or “F” series Engel Fridge – Freezer (The later Models) on a 240 volt generator is to ensure the generator you are using is A.V.R. Automatic Voltage Regulated. Please refer to your generators user manual. If it is an older generator with A.V.R., it doesn’t hurt to add an in line spike protector or surge arrestor.</p>
