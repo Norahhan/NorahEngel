@@ -62,7 +62,7 @@
         <li>|</li>
         <li><a href="contact.php">Links</a></li>
         <li>|</li>
-        <li><a href="contact.php">Media</a></li>
+        <li><a href="media.php">Media</a></li>
         <li>|</li>
         <li><a href="contact.php">Contact Us</a></li>
 

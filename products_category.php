@@ -39,7 +39,7 @@
 						<p>
 							<img src="images/product001.png" alt="img" class="alignleft" /> 
 							This will Eclipse the competition! Reliability, Performance, Efficiency and Quality at an affordable price. The Sawafuji Swing Motor in a polypropylene 38 litre cabinet. Features include Built in Tri-Voltage 12 / 24 volt DC and 240 volt AC. Reversible lid. Comes complete with both DC and AC cords.
-							<a href="#" class="readmore alignleft"></a>
+							<a href="products_details.php" class="readmore alignleft"></a>
 						</p>
 						</article> 
 						<article class="news_article clear"> 
@@ -110,4 +110,4 @@
 <!-- include footer -->
 <?php include_once "include/footer.php"; ?>
 </body>
-</html>
+</html> 

@@ -9,7 +9,7 @@ table, th, td {vertical-align:middle;}
 blockquote:before, blockquote:after, q:before, q:after {content:'';}
 blockquote, q {quotes:"" "";}
 a img {border:none;}
-:focus {outline:0;}
+:focus {outline:0;} 
 
 /****************************************************************** MEDIANET COLOURS */
 .red { color:#e51b24; }
@@ -17,8 +17,10 @@ a img {border:none;}
 .maroon { color:#820024; }
 .black { color:#000; }
 .dark { color:#333132; }
+.greydarker{color:#545454;}
 .grey { color:#999; }
 .gold{color:#a89370;}
+.white{color:#fff;}
 /****************************************************************** TYPOGRAPHY */
 body, input, textarea, button { font-family: Arial, Helvetica, sans-serif; }
 pre, code, tt { font-family: 'andale mono', 'lucida console', monospace; }
@@ -88,6 +90,7 @@ margin:0;
 }
 
 img.img_border{border:6px solid #a89370;}
+img.border_thiner{border:1px solid #a89370;}
 /****************************************************************** LINKS */
 a, a:visited {
 	color:#897a5c;
@@ -178,13 +181,14 @@ table {
 	margin-bottom:1em;
 	width:100%;
 }
-th { font-weight:bold; }
+th { font-weight:bold; background:#333;}
 thead th {
 	background:#333;
 	color:#FFF;
 }
 th, td, caption { padding:4px 0.5em 4px 0.5em; }
-tbody tr.even td { background:#f1f1f1; }
+tbody tr.even td { background:#f1f1f1; border-bottom: 1px solid #fff; border-left: 1px solid #fff;}
+tbody tr.nostyle td { background:#fff;}
 tfoot { font-style:italic; }
 table ul { padding-bottom:0; }
 table.empty tr td { background:none; vertical-align:top; }
@@ -373,7 +377,8 @@ hr.shorter{
 .alignleft { float:left; }
 .alignright { float:right; }
 .aligntop{vertical-align: top;}
-.clear { display:inline-block; }
+.clear { clear:both;}
+.blockinline{ display:inline-block;}
 .module { display:block; margin:10px 0;}
 .clear:after, .module:after, .container:after, .inside:after {
 	display:block;
@@ -399,7 +404,15 @@ hr.shorter{
 .lineheight_short{
     line-height: 1em;
 }
+.margin-b{ margin-bottom:15px;}
 
+
+/* ====== media ====== */
+.media {margin:10px;}
+.media, .bd {overflow:hidden; _overflow:visible; zoom:1;}
+.media .img {float:left; margin-right: 10px;}
+.media .img img{display:block;}
+.media .imgExt{float:right; margin-left: 10px;}
 
 /****************************************************************** HEADER */
 #header {

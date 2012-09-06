@@ -8,7 +8,10 @@
   <link rel="stylesheet" type="text/css" href="css/news.css" media="screen" />
   <link rel="stylesheet" type="text/css" href="css/products.css" media="screen" />
   <link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
+  <link rel="stylesheet" href="css/gallery.css" media="screen" />
+  <link rel="stylesheet" href="css/jquery.lightbox-0.5.css" media="screen" type="text/css" />
   <script type="text/javascript" src="scripts/jquery-1.7.1.min.js"></script>
+  <script type="text/javascript" src="scripts/jquery.lightbox-0.5.js"></script>
   <!--[if lte IE 8]>
     <script type="text/javascript" src="scripts/html5.js"></script>
     <style type="text/css">body { font-size:13px; }</style>

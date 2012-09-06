@@ -4,7 +4,11 @@
 	min-width: 960px;
 	background: #FFFFFF url(img/product_bg.jpg) repeat-x 0 0;
 }
-
+#content-productPage2 {
+	width:100%;
+	min-width: 960px;
+	background: #FFFFFF url(img/product_bg2.jpg) repeat-x 0 0;
+}
 .product-wrap {
 	width:100%;
 }
@@ -65,4 +69,4 @@ padding:0;
 
 .product-nav-r .ui-accordion-content {
 	padding: 1em 1em;
-}
+} 
